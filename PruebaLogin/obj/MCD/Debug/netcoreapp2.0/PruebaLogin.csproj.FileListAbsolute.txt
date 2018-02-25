@@ -1,0 +1,10 @@
+C:\Users\Guisbell\PruebaLogin\bin\MCD\Debug\netcoreapp2.0\PruebaLogin.deps.json
+C:\Users\Guisbell\PruebaLogin\bin\MCD\Debug\netcoreapp2.0\PruebaLogin.runtimeconfig.json
+C:\Users\Guisbell\PruebaLogin\bin\MCD\Debug\netcoreapp2.0\PruebaLogin.runtimeconfig.dev.json
+C:\Users\Guisbell\PruebaLogin\bin\MCD\Debug\netcoreapp2.0\PruebaLogin.dll
+C:\Users\Guisbell\PruebaLogin\bin\MCD\Debug\netcoreapp2.0\PruebaLogin.pdb
+C:\Users\Guisbell\PruebaLogin\obj\MCD\Debug\netcoreapp2.0\PruebaLogin.csproj.CoreCompileInputs.cache
+C:\Users\Guisbell\PruebaLogin\obj\MCD\Debug\netcoreapp2.0\PruebaLogin.AssemblyInfoInputs.cache
+C:\Users\Guisbell\PruebaLogin\obj\MCD\Debug\netcoreapp2.0\PruebaLogin.AssemblyInfo.cs
+C:\Users\Guisbell\PruebaLogin\obj\MCD\Debug\netcoreapp2.0\PruebaLogin.dll
+C:\Users\Guisbell\PruebaLogin\obj\MCD\Debug\netcoreapp2.0\PruebaLogin.pdb
